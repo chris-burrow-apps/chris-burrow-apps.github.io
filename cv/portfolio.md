@@ -3,12 +3,13 @@ layout: page
 title: Portfolio
 permalink: /portfolio
 ---
-
+## My Apps From Scratch
 **Help Decide**
 
-* Android \-   
-* Git Hub Access upon request \- [https://bitbucket.org/chris173972/help-decide-android-app](https://bitbucket.org/chris173972/help-decide-android-app) 
+* Android \- 
+* Git Repo \- [https://github.com/chris-burrow-apps/help-decide-android-app](https://github.com/chris-burrow-apps/help-decide-android-app) 
 
+## Previous Companies Apps
 **Money Supermarket**
 
 * Android \- [https://play.google.com/store/apps/details?id=com.moneysupermarket.phoenix](https://play.google.com/store/apps/details?id=com.moneysupermarket.phoenix)   

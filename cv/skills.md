@@ -4,14 +4,14 @@ title: Skills
 permalink: /cv/skills
 ---
 
-**Programming languages:**
+## Programming languages
 
 * Kotlin – Android (Phone & Tablet)  
 * Java – Android (Phone & Tablet)  
 * Kotlin \- Server side
 
 
-**Android frameworks**
+## Android frameworks
 
 * Jetpack Compose  
 * XML Layouts  
@@ -24,21 +24,21 @@ permalink: /cv/skills
 * Background Services
 
 
-**Development Environments:**
+## Development Environments:
 
 * Android Studio  
 * Eclipse  
 * XCode
 
 
-**Testing Environment Frameworks:**
+## Testing Environment Frameworks:
 
 * AndroidX JUnitRunner
 * Java JUnit
 * Espresso
 
 
-**Research and integrate new Technologies**
+## Research and integrate new Technologies
 
 * Wearables (Android Wear)  
 * Payment Systems (Google Pay)  
@@ -46,24 +46,24 @@ permalink: /cv/skills
 * Bluetooth Beacons (BLE)
 
 
-**Database languages**
+## Database languages
 
 * Room  
 * LiveData
 
 
-**Web languages**
+## Web languages
 
 * XML  
 * JSON  
 * YAML
 
 
-**User Documentation**
+## User Documentation
 
 * Javadoc 
 
-**Build Servers used and configured**
+## Build Servers used and configured
 
 * Bitrise.io  
 * Jenkins  
