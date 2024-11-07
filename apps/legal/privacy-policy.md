@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: App Store - Privacy Policy
 permalink: /apps/legal/privacy-policy
 ---
 
