@@ -5,7 +5,7 @@ title: Previous Expereince
 permalink: /cv/previous-expereince
 ---
 
-## May 2017 \- December 2022 \- Money Supermarket, Manchester**
+## May 2017 \- December 2022 \- Money Supermarket, Manchester
 
 ### Apps
 **Money Supermarket - Rewritten**
@@ -21,7 +21,7 @@ permalink: /cv/previous-expereince
 **Money Supermarket \- Older version**
 * Android \- [https://play.google.com/store/apps/details?id=com.moneysupermarket.moremoney](https://play.google.com/store/apps/details?id=com.moneysupermarket.moremoney) 
 
-## June 2013 – May 2017 – Degree 53, Manchester**
+## June 2013 – May 2017 – Degree 53, Manchester
 While working with Degree 53, I worked on a wide range of Android & iOS applications spanning from gambling applications, charities to pre school learning. Due to the different scales of projects, this has helped me learn how to work in various team sizes which involved sprints with the agile work pattern. I have submitted many new and updated apps to the app store for this company such as Betfred Lotto, Football Scores, Ready For School and Racing Results. I also integrated new technologies into a wide range of apps such as Touch ID, Apple Watch, Apple Pay, PingIt, Android Wear and Bluetooth Beacons. Due to my knowledge of both Android & iOS, I have been technical lead in larger projects and also been involved in the design stages suggesting what each platform should and should not do. 
 
 ### Apps
