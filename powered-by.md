@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Powered By
+permalink: /powered-by
 ---
 
 Website powered by Jekyll
