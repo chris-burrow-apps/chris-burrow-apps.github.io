@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Companies
-permalink: /cv/companies
+title: Previous Expereince
+permalink: /cv/previous-expereince
 ---
-**Companies I have worked for**
 
 **May 2017 \- December 2022 \- Money Supermarket, Manchester**
 

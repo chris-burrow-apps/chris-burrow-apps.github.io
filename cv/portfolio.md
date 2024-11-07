@@ -4,8 +4,6 @@ title: Portfolio
 permalink: /portfolio
 ---
 
-**Portfolio**
-
 **Help Decide**
 
 * Android \-   

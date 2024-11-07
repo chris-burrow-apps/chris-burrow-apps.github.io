@@ -4,8 +4,6 @@ title: Privacy Policy
 permalink: /apps/legal/privacy-policy
 ---
 
-**PRIVACY POLICY**
-
 **Last updated November 06, 2024**
   
 
