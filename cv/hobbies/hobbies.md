@@ -4,10 +4,13 @@ title: Hobbies
 permalink: /cv/hobbies
 ---
 
-In my spare time I am involved in quite a few bits:
+Outside coding apps, in my spare time I am involved in quite a few projects:
 
 ## CAD / 3D Printing
 Mixed for my own enjoyment, helping out friends and family. I have been doing CAD since I was 16. Making designs for scratch, adapting existing designs and then 3D Print the prototype. Over COVID I also donated face masks & ear helpers to local businesses and even the local hospital. 
+
+* [My Printables Profile](https://www.printables.com/@Chris173972_549133/models)
+
 
 ## Home Assistant
 Quirk of being a developer, I love making things automated. This includes my house! I have setup automations for: 
@@ -25,6 +28,3 @@ One of my bug bares with IOT devices is that most are tied to the cloud. I have 
 * [https://github.com/chris-burrow-apps/my-tuya-devices-conversion](https://github.com/chris-burrow-apps/my-tuya-devices-conversion)
 * [https://github.com/tuya-cloudcutter/tuya-cloudcutter/issues/729#issuecomment-2457745381](https://github.com/tuya-cloudcutter/tuya-cloudcutter/issues/729#issuecomment-2457745381)
 * [https://www.elektroda.com/rtvforum/topic4085100.html](https://www.elektroda.com/rtvforum/topic4085100.html)
-
-## Drone Photography
-
