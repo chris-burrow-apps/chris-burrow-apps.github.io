@@ -4,32 +4,35 @@ title: Previous Expereince
 permalink: /cv/previous-expereince
 ---
 
-## May 2017 \- December 2022 \- Money Supermarket, Manchester
+## Money Supermarket, Manchester
+
+### May 2017 \- December 2022
 
 ### Apps
 **Money Supermarket - Rewritten**
-* Android \- [https://play.google.com/store/apps/details?id=com.moneysupermarket.phoenix](https://play.google.com/store/apps/details?id=com.moneysupermarket.phoenix)   
-* iOS \- [https://apps.apple.com/gb/app/moneysupermarket/id935274056?mt=8](https://apps.apple.com/gb/app/moneysupermarket/id935274056?mt=8) 
+* Google Play Store \- [https://play.google.com/store/apps/details?id=com.moneysupermarket.phoenix](https://play.google.com/store/apps/details?id=com.moneysupermarket.phoenix)   
+* Apple App Store \- [https://apps.apple.com/gb/app/moneysupermarket/id935274056?mt=8](https://apps.apple.com/gb/app/moneysupermarket/id935274056?mt=8) 
 
 **QuidCo**
-* Android \- [https://play.google.com/store/apps/details?id=com.quidco](https://play.google.com/store/apps/details?id=com.quidco) 
+* Google Play Store \- [https://play.google.com/store/apps/details?id=com.quidco](https://play.google.com/store/apps/details?id=com.quidco) 
 
 **Money Savings Expert**
-* Android \- [https://play.google.com/store/apps/details?id=com.mse.mseapp](https://play.google.com/store/apps/details?id=com.mse.mseapp) 
+* Google Play Store \- [https://play.google.com/store/apps/details?id=com.mse.mseapp](https://play.google.com/store/apps/details?id=com.mse.mseapp) 
 
 **Money Supermarket \- Older version**
-* Android \- [https://play.google.com/store/apps/details?id=com.moneysupermarket.moremoney](https://play.google.com/store/apps/details?id=com.moneysupermarket.moremoney) 
+* Google Play Store \- [https://play.google.com/store/apps/details?id=com.moneysupermarket.moremoney](https://play.google.com/store/apps/details?id=com.moneysupermarket.moremoney) 
 
-## June 2013 – May 2017 – Degree 53, Manchester
+## Degree 53, Manchester
+### June 2013 – May 2017
 While working with Degree 53, I worked on a wide range of Android & iOS applications spanning from gambling applications, charities to pre school learning. Due to the different scales of projects, this has helped me learn how to work in various team sizes which involved sprints with the agile work pattern. I have submitted many new and updated apps to the app store for this company such as Betfred Lotto, Football Scores, Ready For School and Racing Results. I also integrated new technologies into a wide range of apps such as Touch ID, Apple Watch, Apple Pay, PingIt, Android Wear and Bluetooth Beacons. Due to my knowledge of both Android & iOS, I have been technical lead in larger projects and also been involved in the design stages suggesting what each platform should and should not do. 
 
 ### Apps
 **Ready For School**
-* iOS \- [https://itunes.apple.com/gb/app/ready-for-school-ages-3-4/id1059363344?mt=8](https://itunes.apple.com/gb/app/ready-for-school-ages-3-4/id1059363344?mt=8) 
+* Apple App Store \- [https://itunes.apple.com/gb/app/ready-for-school-ages-3-4/id1059363344?mt=8](https://itunes.apple.com/gb/app/ready-for-school-ages-3-4/id1059363344?mt=8) 
 
 **Betfred Lotto** 
-* iOS \- [https://itunes.apple.com/gb/app/betfred-lotto/id677267107?mt=8](https://itunes.apple.com/gb/app/betfred-lotto/id677267107?mt=8) 
-* Android \- [https://betfred.mobi/androidapps/betfredlotto](https://betfred.mobi/androidapps/betfredlotto) 
+* Apple App Store \- [https://itunes.apple.com/gb/app/betfred-lotto/id677267107?mt=8](https://itunes.apple.com/gb/app/betfred-lotto/id677267107?mt=8) 
+* Google Play Store \- [https://betfred.mobi/androidapps/betfredlotto](https://betfred.mobi/androidapps/betfredlotto) 
 
 ### Apps removed from appstore
 * Football Acca
@@ -38,17 +41,18 @@ While working with Degree 53, I worked on a wide range of Android & iOS applicat
 * UK Racing Results
 * Other prototypes for businesses.
 
-## February 2012 – March 2013 – Great Fridays, Manchester
-
+## Great Fridays, Manchester
+### February 2012 – March 2013
 While I was working for this company I worked on IOS applications for a range of clients. One of the applications I worked on was the Gucci Style fashion application. While working with this company, this me experience in the field and learn different styles of coding to suit the clients needs. 
 
 I also had to follow strict deadlines and had to continuously change designs that needed to be met; pixel perfect. This meant restructuring my code and changing animations and UX design to make the applications.
 
 **Gucci Style**
-* iOS \- [https://itunes.apple.com/gb/app/gucci-style/id334876990?mt=8](https://itunes.apple.com/gb/app/gucci-style/id334876990?mt=8) 
+* Apple App Store \- [https://itunes.apple.com/gb/app/gucci-style/id334876990?mt=8](https://itunes.apple.com/gb/app/gucci-style/id334876990?mt=8) 
 
 
-## April 2006 – Temporary work – Advance UK, Leigh
+## Work Placement – Advance UK, Leigh
+### April 2006
 
 Work experience for one week, within education time. My main roles were to be a member of the computer technician team and to work on the shop floor, giving advice to customers and noting down the repair problems.  
 
@@ -56,7 +60,8 @@ First of all, when on the front desk, I had to note down the problems the custom
 
 I was assigned computers with multiple problems such as, the equipment wouldn't turn on, had a virus, registry problems; so had to use problem solving skills to identify and fix different types of problems. One day, the network malfunctioned, so I was assigned the task of getting it up and running again. The network was a LAN and had a server at source. I was familiar with this type of connection and had it up and running again by using series of commands. I am glad I was given the opportunity to do this work experience as it gave me an insight into how a small computer company worked and helped me improve my time keeping and problem solving skills. 
 
-## April 2006 – Temporary work – Westleigh High School
+## Work Placement – Westleigh High School
+### April 2006
 
 Work experience for one week, within education time. I was employed by the school to design and create a new website for the science department and improve the overall design of the main website.
 

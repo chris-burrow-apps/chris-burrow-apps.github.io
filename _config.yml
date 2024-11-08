@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Chris Burrow Apps
+title: Chris Burrow
 email: chris.burrow.apps@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Website to host all the docs about the apps I have made. 
-  An Android developer based in Manchester, UK. 
+  Portfolio website of all the apps I have worked on and my hobbies. 
+  Android developer based in Manchester, UK. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chris.burrow.apps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chris-burrow-apps
@@ -51,3 +51,18 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - cv/skills.md
+  - cv/previous-experience.md
+  - cv/portfolio.md
+  - cv/education.md
+  - cv/hobbies.md
+
+google_analytics: G-LC1KRS03S0
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: github,  user_url: "https://github.com/chris-burrow-apps" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/chrisburrow/" }
