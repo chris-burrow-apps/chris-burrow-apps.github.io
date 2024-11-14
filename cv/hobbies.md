@@ -7,15 +7,17 @@ Outside coding apps, in my spare time I am involved in quite a few projects:
 
 ## CAD / 3D Printing
 
-![3d_printing.webp](/images/3d_printing.webp)
+![Example 3D Print](/images/hobbies/3d_printing.webp)
 
 Mixed for my own enjoyment, helping out friends and family. I have been doing CAD since I was 16. Making designs for scratch, adapting existing designs and then 3D Print the prototype. Over COVID I also donated face masks & ear helpers to local businesses and even the local hospital.
 
 * [My Printables Profile](https://www.printables.com/@Chris173972_549133/models)
 
+---
+
 ## Home Assistant
 
-![home_assistant.gif](/images/home_assistant.gif)
+![Home Assistant Example](/images/home_assistant.gif)
 
 Quirk of being a developer, I love making things automated. This includes my house! I have setup automations for:
 
@@ -27,9 +29,11 @@ Quirk of being a developer, I love making things automated. This includes my hou
 
 Now setting up my families caravan to be automated too for less than half the price companies would sell you one for!
 
+---
+
 ## Converting Cloud devices to local
 
-![tuya_cloudcutter.jpg](/images/tuya_cloudcutter.jpg)
+![Tuya Cloudcutter Device](/images/hobbies/tuya_cloudcutter.jpg)
 
 One of my bug bares with IOT devices is that most are tied to the cloud. I have started to contribute towards a Open Source project where I contribute configurations of devices that was once tied with Tuya and now can be controlled locally.
 

@@ -55,7 +55,7 @@ plugins:
 header_pages:
   - cv/skills.md
   - cv/previous-experience.md
-  - cv/portfolio.md
+  - apps/apps_homepage.md
   - cv/education.md
   - cv/hobbies.md
 
