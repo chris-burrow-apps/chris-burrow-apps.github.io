@@ -17,13 +17,13 @@ Mixed for my own enjoyment, helping out friends and family. I have been doing CA
 
 ## Home Assistant
 
-![Home Assistant Example](/images/home_assistant.gif)
+![Home Assistant Example](/images/hobbies/home_assistant.png)
 
 Quirk of being a developer, I love making things automated. This includes my house! I have setup automations for:
 
 * Notify when washing / drying is finished.
 * Notifying me of recycling collection on my phone.
-* Setting up projector with screen and surroundsound by just saying 'Enable Film mode'
+* Setting up projector with screen and surround sound by just saying 'Enable Film mode'
 * Making my dumb rf driveway gates smart.
 * DIY House Alarm
 

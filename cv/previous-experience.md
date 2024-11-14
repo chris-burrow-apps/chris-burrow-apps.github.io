@@ -4,25 +4,23 @@ title: Previous Experience
 permalink: /cv/previous-experience
 ---
 ## Money Supermarket, Manchester
-
-### May 2017 \- December 2022
-
+### May 2017 - December 2022
 ### Apps
 
-**Money Supermarket - Rewritten**
+#### Money Supermarket - Rewritten
 
 * Google Play Store \- [https://play.google.com/store/apps/details?id=com.moneysupermarket.phoenix](https://play.google.com/store/apps/details?id=com.moneysupermarket.phoenix)
 * Apple App Store \- [https://apps.apple.com/gb/app/moneysupermarket/id935274056?mt=8](https://apps.apple.com/gb/app/moneysupermarket/id935274056?mt=8)
 
-**QuidCo**
+#### QuidCo
 
 * Google Play Store \- [https://play.google.com/store/apps/details?id=com.quidco](https://play.google.com/store/apps/details?id=com.quidco)
 
-**Money Savings Expert**
+#### Money Savings Expert
 
 * Google Play Store \- [https://play.google.com/store/apps/details?id=com.mse.mseapp](https://play.google.com/store/apps/details?id=com.mse.mseapp)
 
-**Money Supermarket \- Older version**
+#### Money Supermarket - Older version
 
 * Google Play Store \- [https://play.google.com/store/apps/details?id=com.moneysupermarket.moremoney](https://play.google.com/store/apps/details?id=com.moneysupermarket.moremoney)
 
@@ -38,16 +36,16 @@ While working with Degree 53, I worked on a wide range of Android & iOS applicat
 
 ### Apps
 
-**Ready For School**
+#### Ready For School
 
 * Apple App Store \- [https://itunes.apple.com/gb/app/ready-for-school-ages-3-4/id1059363344?mt=8](https://itunes.apple.com/gb/app/ready-for-school-ages-3-4/id1059363344?mt=8)
 
-**Betfred Lotto**
+#### Betfred Lotto
 
 * Apple App Store \- [https://itunes.apple.com/gb/app/betfred-lotto/id677267107?mt=8](https://itunes.apple.com/gb/app/betfred-lotto/id677267107?mt=8)
 * Google Play Store \- [https://betfred.mobi/androidapps/betfredlotto](https://betfred.mobi/androidapps/betfredlotto)
 
-### Apps removed from App Store
+#### Apps removed from App Store
 
 * Football Acca
 * Betfred Sportsbook
@@ -65,11 +63,11 @@ While I was working for this company I worked on IOS applications for a range of
 
 I also had to follow strict deadlines and had to continuously change designs that needed to be met; pixel perfect. This meant restructuring my code and changing animations and UX design to make the applications.
 
-**Gucci Style**
+#### Gucci Style
 
 * Apple App Store \- [https://itunes.apple.com/gb/app/gucci-style/id334876990?mt=8](https://itunes.apple.com/gb/app/gucci-style/id334876990?mt=8)
 
-### Apps removed from App Store
+#### Apps removed from App Store
 
 * Football Tactics
 
