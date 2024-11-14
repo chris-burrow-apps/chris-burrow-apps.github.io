@@ -5,8 +5,8 @@ permalink: /cv/education
 ---
 
 ## 2008 \- 2011 Manchester Metropolitan University
-### Course: BSc Software Engineering 2:1
-**The modules that I taken final year are as follows**
+### Course: B.Sc. Software Engineering 2:1
+**The modules that I have on the final year are as follows**
 
 * Enterprise Programming  
 * Mobile and Website Development  

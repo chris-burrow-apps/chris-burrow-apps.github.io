@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-permalink: /portfolio
+permalink: /cv/portfolio
 ---
 ## My Apps From Scratch
 **Help Decide**
@@ -41,7 +41,7 @@ permalink: /portfolio
 
 * Apple App Store \- [https://itunes.apple.com/gb/app/gucci-style/id334876990?mt=8](https://itunes.apple.com/gb/app/gucci-style/id334876990?mt=8) 
 
-### Apps removed from appstore
+### Apps removed from App Store
 * Football Acca
 * Betfred Sportsbook
 * Betfred Virtual Sports
