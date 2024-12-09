@@ -14,6 +14,6 @@ Learn more about my:
 * [Previous Experience](/cv/previous-experience)
 * [My App Store](/apps)
 * [Education](/cv/education)
-* [Hobbies](/cv/hobbies)
+* [Hobbies](/hobbies/home)
 
 ## Contact Details: [chris.burrow.apps@gmail.com](mailto:chris.burrow.apps@gmail.com)
