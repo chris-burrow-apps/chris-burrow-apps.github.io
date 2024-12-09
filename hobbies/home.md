@@ -31,7 +31,7 @@ https://github.com/chris-burrow-apps/home-assistant-blueprints
 
 ---
 
-## <a name="immich-kiosk"/> Imich Kiosk Mode
+## <a name="immich-kiosk"/> Immich Kiosk Mode
 
 While converting my Google Hubs to no longer use Google Photos. I discovered an app called [Immich](https://immich.app/).
 This is a community driven application that basically looks and acts like Google Photos but being able to host locally.
