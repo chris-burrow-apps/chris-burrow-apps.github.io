@@ -6,6 +6,8 @@ permalink: /apps
 
 In my own time I have been developing my own app on Google Play
 
+![Help Decide Banner](/images/apps/help_decide_banner.png)
+
 ## Help Decide
 
 ### Git Repo - [https://github.com/chris-burrow-apps/help-decide-android-app](https://github.com/chris-burrow-apps/help-decide-android-app)
