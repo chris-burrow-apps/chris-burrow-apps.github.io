@@ -53,11 +53,11 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
-  - hobbies/home.md
+  - hobbies/donate.md
   - cv/skills.md
   - cv/previous-experience.md
   - apps/apps_homepage.md
   - cv/education.md
-  - cv/home.md
+  - cv/donate.md
 
 google_analytics: G-LC1KRS03S0

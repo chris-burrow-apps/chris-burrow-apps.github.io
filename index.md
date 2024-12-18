@@ -16,4 +16,14 @@ Learn more about my:
 * [Education](/cv/education)
 * [Hobbies](/hobbies/home)
 
-## Contact Details: [chris.burrow.apps@gmail.com](mailto:chris.burrow.apps@gmail.com)
+### Contact Details: [chris.burrow.apps@gmail.com](mailto:chris.burrow.apps@gmail.com)
+
+--- 
+
+## Did any of my work help you out?
+
+### Donate to my ko-fi link =)
+
+![Ko-Fi QR](/images/kofi_qrcode.png)
+
+[https://ko-fi.com/chrisburrow1739](https://ko-fi.com/chrisburrow1739)
