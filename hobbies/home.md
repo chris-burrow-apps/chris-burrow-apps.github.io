@@ -16,6 +16,8 @@ Outside coding apps, in my spare time I am involved in quite a few projects:
 
 [https://ko-fi.com/chrisburrow1739](https://ko-fi.com/chrisburrow1739)
 
+---
+
 ## <a name="home-assistant"/> Home Assistant
 
 ![Home Assistant Example](/images/hobbies/home_assistant.png)
