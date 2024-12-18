@@ -22,7 +22,7 @@ Learn more about my:
 
 ## Did any of my work help you out?
 
-### Donate to my ko-fi link =)
+### Think about giving me a tip =)
 
 ![Ko-Fi QR](/images/kofi_qrcode.png)
 
