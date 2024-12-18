@@ -10,6 +10,12 @@ Outside coding apps, in my spare time I am involved in quite a few projects:
 * [Local Tuya](#local-tuya)
 * [3D Printing](#3d-printing)
 
+## Did any of my work help you out?
+
+![Ko-Fi QR](/images/kofi_qrcode.png)
+
+[https://ko-fi.com/chrisburrow1739](https://ko-fi.com/chrisburrow1739)
+
 ## <a name="home-assistant"/> Home Assistant
 
 ![Home Assistant Example](/images/hobbies/home_assistant.png)

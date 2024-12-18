@@ -53,7 +53,7 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
-  - hobbies/donate.md
+  - hobbies/home.md
   - cv/skills.md
   - cv/previous-experience.md
   - apps/apps_homepage.md

@@ -19,11 +19,3 @@ Learn more about my:
 ### Contact Details: [chris.burrow.apps@gmail.com](mailto:chris.burrow.apps@gmail.com)
 
 --- 
-
-## Did any of my work help you out?
-
-### Think about giving me a tip =)
-
-![Ko-Fi QR](/images/kofi_qrcode.png)
-
-[https://ko-fi.com/chrisburrow1739](https://ko-fi.com/chrisburrow1739)
