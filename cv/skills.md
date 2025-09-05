@@ -18,6 +18,8 @@ permalink: /cv/skills
 * Moshi (JSON Parsing)  
 * Retrofit  
 * Volley   
+* Room  
+* LiveData
 * Firebase Analytics  
 * Firebase Crashlytics  
 * Firebase App Distribution  
@@ -28,7 +30,6 @@ permalink: /cv/skills
 
 * Android Studio  
 * Eclipse  
-* XCode
 
 
 ## Testing Environment Frameworks:
@@ -36,6 +37,7 @@ permalink: /cv/skills
 * AndroidX JUnitRunner
 * Java JUnit
 * Espresso
+* Mockito
 
 
 ## Research and integrate new Technologies
@@ -44,12 +46,6 @@ permalink: /cv/skills
 * Payment Systems (Google Pay)  
 * Fingerprint Authentication (Android)  
 * Bluetooth Beacons (BLE)
-
-
-## Database languages
-
-* Room  
-* LiveData
 
 
 ## Web languages
