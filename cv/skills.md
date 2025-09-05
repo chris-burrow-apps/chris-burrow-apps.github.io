@@ -26,6 +26,13 @@ permalink: /cv/skills
 * Background Services
 
 
+## Build Servers used and configured
+
+* Bitrise.io  
+* Jenkins  
+* Teamcity
+
+
 ## Development Environments:
 
 * Android Studio  
@@ -58,9 +65,3 @@ permalink: /cv/skills
 ## User Documentation
 
 * Javadoc 
-
-## Build Servers used and configured
-
-* Bitrise.io  
-* Jenkins  
-* Teamcity
