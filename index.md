@@ -16,6 +16,6 @@ Learn more about my:
 * [Education](/cv/education)
 * [Hobbies](/hobbies/home)
 
-### Contact Details: [chris.burrow.apps@gmail.com](mailto:chris.burrow.apps@gmail.com)
+### Contact Details: [chris@burrow.website](mailto:chris@burrow.website)
 
 --- 

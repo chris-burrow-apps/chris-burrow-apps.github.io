@@ -37,14 +37,15 @@ Key Skills & Achievements:
 ### May 2017 - December 2022
 
 I started at Money Supermarket when they had a team of 15 people on mobile and then rapidly expanded to 150+. 
-Things that happened over the time I was there:
-* Being involved with recruitment strategy and training, starting with the mobile team, which then quickly became the whole tech team along with training people into our team.
-* Handing over their legacy app 'More Money app' from contractors to a permanent team  and then refactoring it to be easier to maintain. 
-* When moving to bigger offices, working with the tech team on creating Pi Dashboards to show the team progress on PRs etc. 
+What was included in my job role during my time there:
+* Integrating Firebase including: Cloud Device testing, push notifications, analytics and A/B Testing frameworks.
+* Handing over their legacy app 'More Money app' from contractors to a permanent team and then refactoring it to be easier to maintain. 
 * Upon Kotlin getting more mainstream with Android Development, working with the team to create a training plan to get everyone with the same knowledge. 
 * Handing over 'Credit Monitor' from contractors which we then quickly decided to migrate existing features into. Worked with the team on a migration strategy for the features which lasted a year.
-* Creating a whole new CI Pipeline using Bitrise and working with Bitrise on how to improve their existing flows. 
-* Integrating Firebase including: Cloud Device testing, push notifications, analytics, A/B Testing frameworks...
+* Creating a whole new CI Pipeline using Bitrise and working with Bitrise on how to improve their existing flows.
+* Experimenting with creating a Physical Device Farm, Firebase Remote Testing, Docker Device Testing and other technologies to improve our workflows. 
+* Being involved with recruitment strategy and training, starting with the mobile team, which then quickly became the whole tech team along with training people into our team.
+* When moving to bigger offices, working with the tech team on creating Pi Dashboards to show the team progress on PRs etc.
 
 ### Apps
 
