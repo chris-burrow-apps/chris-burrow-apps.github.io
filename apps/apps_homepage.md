@@ -20,11 +20,11 @@ To aid development, I have built this along side Gemini to speed up building scr
 
 
 <p float="left">
-    <img src="/images/apps/chris3dprintshelper_1.png" width="20%" />    
-    <img src="/images/apps/chris3dprintshelper_2.png" width="20%" />
-    <img src="/images/apps/chris3dprintshelper_3.png" width="20%" />
-    <img src="/images/apps/chris3dprintshelper_4.png" width="20%" />
-    <img src="/images/apps/chris3dprintshelper_5.png" width="20%" />
+    <img src="/images/apps/chris3dprintshelper_1.png" width="19%" />    
+    <img src="/images/apps/chris3dprintshelper_2.png" width="19%" />
+    <img src="/images/apps/chris3dprintshelper_3.png" width="19%" />
+    <img src="/images/apps/chris3dprintshelper_4.png" width="19%" />
+    <img src="/images/apps/chris3dprintshelper_5.png" width="19%" />
 </p>
 
 
@@ -46,11 +46,11 @@ To aid development, I have built this along side Gemini to speed up building scr
 Git Repo - [https://github.com/chris-burrow-apps/help-decide-android-app](https://github.com/chris-burrow-apps/help-decide-android-app)
 
 <p float="left">
-    <img src="/images/apps/help_decide_dark_0.png" width="20%" />    
-    <img src="/images/apps/help_decide_dark_1.png" width="20%" />
-    <img src="/images/apps/help_decide_dark_2.png" width="20%" />
-    <img src="/images/apps/help_decide_dark_3.png" width="20%" />
-    <img src="/images/apps/help_decide_dark_4.png" width="20%" />
+    <img src="/images/apps/help_decide_dark_0.png" width="19%" />    
+    <img src="/images/apps/help_decide_dark_1.png" width="19%" />
+    <img src="/images/apps/help_decide_dark_2.png" width="19%" />
+    <img src="/images/apps/help_decide_dark_3.png" width="19%" />
+    <img src="/images/apps/help_decide_dark_4.png" width="19%" />
 </p>
 
 This was built using Jetpack compose and MVVM pattern.
