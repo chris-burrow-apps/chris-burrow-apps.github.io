@@ -5,13 +5,13 @@ permalink: /cv/previous-experience
 ---
 ## Chris3DPrintsStuff, Manchester
 ### Founder & CAD / 3D Printing Engineer
+### January 2024 to Present
 
-### January 2024 to Present - 
 Founded and operated an independent CAD/CAM and 3D printing service, delivering bespoke design and rapid prototyping solutions for personal and small-scale commercial use. Responsible for the full product lifecycle from concept through design, manufacture, iteration, and customer delivery. 20+ 5 Star Reviews on Etsy & eBay. Designed and manufactured 150+ custom orders over multiple platforms.
 I have designed, prototyped, and manufactured a range of functional products including home organisation and security solutions, IoT sensor enclosures, tablet docks, device mounts and automotive repair components
 Worked directly with customers to gather requirements, iterate on designs, and resolve fitment or tolerance issues, delivering improved revisions and communicating updates throughout the project lifecycle.
 
-Key Skills & Achievements:
+#### Key Skills & Achievements:
 
 * An Android mobile application to manage and present material itineraries & improve workflow efficiency while quoting. This development was to experiment with AI Assisted coding tools.
 * Rapid prototyping & iteration of product ideas: Took concepts from initial idea through multiple design iterations to achieve functional, real-world solutions.
@@ -35,12 +35,11 @@ Key Skills & Achievements:
 
 ## Money Supermarket, Manchester
 ### Senior Android Developer
-
 ### May 2017 - December 2022
 
 I started at Money Supermarket when they had a team of 15 people on mobile and then rapidly expanded to 150+. 
 
-Key Skills & Achievements:
+#### Key Skills & Achievements:
 
 * Being involved with recruitment strategy and training, starting with the mobile team, which then quickly became the whole tech team along with training people into our team.
 * Handing over their legacy app 'More Money app' from contractors to a permanent team  and then refactoring it to be easier to maintain. 
@@ -69,7 +68,6 @@ Key Skills & Achievements:
 
 ## Degree 53, Manchester
 ### Senior Mobile Developer
-
 ### June 2013 – May 2017
 
 While working with Degree 53, I worked on a wide range of Android & iOS applications spanning from gambling applications, charities to pre school learning. Due to the different scales of projects, this has helped me learn how to work in various team sizes which involved sprints with the agile work pattern. I have submitted many new and updated apps to the app store for this company such as Betfred Lotto, Football Scores, Ready For School and Racing Results. I also integrated new technologies into a wide range of apps such as Touch ID, Apple Watch, Apple Pay, PingIt, Android Wear and Bluetooth Beacons. Due to my knowledge of both Android & iOS, I have been technical lead in larger projects and also been involved in the design stages suggesting what each platform should and should not do.
@@ -94,7 +92,6 @@ While working with Degree 53, I worked on a wide range of Android & iOS applicat
 
 ## Great Fridays, Manchester
 ### Mobile Developer
-
 ### February 2012 – March 2013
 
 While I was working for this company I worked on IOS applications for a range of clients. One of the applications I worked on was the Gucci Style fashion application. While working with this company, this me experience in the field and learn different styles of coding to suit the clients needs.
@@ -113,7 +110,6 @@ I also had to follow strict deadlines and had to continuously change designs tha
 
 ## Advance UK, Leigh
 ### Work Placement
-
 ### April 2006
 
 Work experience for one week, within education time. My main roles were to be a member of the computer technician team and to work on the shop floor, giving advice to customers and noting down the repair problems.
@@ -126,7 +122,6 @@ I was assigned computers with multiple problems such as, the equipment wouldn't 
 
 ## Westleigh High School
 ### Work Placement
-
 ### April 2006
 
 Work experience for one week, within education time. I was employed by the school to design and create a new website for the science department and improve the overall design of the main website.
