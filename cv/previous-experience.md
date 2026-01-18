@@ -11,7 +11,7 @@ Founded and operated an independent CAD/CAM and 3D printing service, delivering 
 I have designed, prototyped, and manufactured a range of functional products including home organisation and security solutions, IoT sensor enclosures, tablet docks, device mounts and automotive repair components
 Worked directly with customers to gather requirements, iterate on designs, and resolve fitment or tolerance issues, delivering improved revisions and communicating updates throughout the project lifecycle.
 
-#### Key Skills & Achievements:
+#### Key Skills & Achievements
 
 * An Android mobile application to manage and present material itineraries & improve workflow efficiency while quoting. This development was to experiment with AI Assisted coding tools.
 * Rapid prototyping & iteration of product ideas: Took concepts from initial idea through multiple design iterations to achieve functional, real-world solutions.
@@ -39,7 +39,7 @@ Worked directly with customers to gather requirements, iterate on designs, and r
 
 I started at Money Supermarket when they had a team of 15 people on mobile and then rapidly expanded to 150+. 
 
-#### Key Skills & Achievements:
+#### Key Skills & Achievements
 
 * Being involved with recruitment strategy and training, starting with the mobile team, which then quickly became the whole tech team along with training people into our team.
 * Handing over their legacy app 'More Money app' from contractors to a permanent team  and then refactoring it to be easier to maintain. 
