@@ -3,7 +3,36 @@ layout: page
 title: Previous Experience
 permalink: /cv/previous-experience
 ---
-## Money Supermarket, Manchester
+## Founder & CAD / 3D Printing Engineer - Chris3DPrintsStuff, Manchester
+
+### January 2024 to Present - 
+Founded and operated an independent CAD/CAM and 3D printing service, delivering bespoke design and rapid prototyping solutions for personal and small-scale commercial use. Responsible for the full product lifecycle from concept through design, manufacture, iteration, and customer delivery. 20+ 5 Star Reviews on Etsy & eBay. Designed and manufactured 150+ custom orders over multiple platforms.
+I have designed, prototyped, and manufactured a range of functional products including home organisation and security solutions, IoT sensor enclosures, tablet docks, device mounts and automotive repair components
+Worked directly with customers to gather requirements, iterate on designs, and resolve fitment or tolerance issues, delivering improved revisions and communicating updates throughout the project lifecycle.
+
+Key Skills & Achievements:
+
+* An Android mobile application to manage and present material itineraries & improve workflow efficiency while quoting. This development was to experiment with AI Assisted coding tools.
+* Rapid prototyping & iteration of product ideas: Took concepts from initial idea through multiple design iterations to achieve functional, real-world solutions.
+* Customer collaboration & feedback integration: Actively gathered user feedback, resolved design issues, and delivered updated solutions while managing expectations.
+* Business development & marketing: Promoted products and services through clear, accessible explanations of technical functionality to non-technical audiences.
+* Advanced CAD design techniques: Improved robustness, usability, and printability of models by learnign new techniques.
+* Consistent CAM quality: Maintained consistent print quality through printer calibration, material selection, and process optimisation.
+
+### Apps
+
+#### Chris 3D Print Organiser
+
+* For details: [https://chris-burrow-apps.github.io/apps](https://chris-burrow-apps.github.io/apps)
+
+#### Chris 3D Print Quoting System
+
+* For details: [https://chris-burrow-apps.github.io/apps](https://chris-burrow-apps.github.io/apps)
+* Hosted \- [https://print-estimate.chris3dprintsstuff.website/](https://print-estimate.chris3dprintsstuff.website/)
+
+---
+
+## Senior Android Developer - Money Supermarket, Manchester
 
 ### May 2017 - December 2022
 
@@ -19,36 +48,28 @@ Things that happened over the time I was there:
 
 ### Apps
 
-#### Money Supermarket - Rewritten
+#### Money Supermarket - Post 2019
 
 * Google Play Store \- [https://play.google.com/store/apps/details?id=com.moneysupermarket.phoenix](https://play.google.com/store/apps/details?id=com.moneysupermarket.phoenix)
 * Apple App Store \- [https://apps.apple.com/gb/app/moneysupermarket/id935274056?mt=8](https://apps.apple.com/gb/app/moneysupermarket/id935274056?mt=8)
-
-#### QuidCo
-
-* Google Play Store \- [https://play.google.com/store/apps/details?id=com.quidco](https://play.google.com/store/apps/details?id=com.quidco)
 
 #### Money Savings Expert
 
 * Google Play Store \- [https://play.google.com/store/apps/details?id=com.mse.mseapp](https://play.google.com/store/apps/details?id=com.mse.mseapp)
 
-#### Money Supermarket - Older version
+#### Money Supermarket - Pre 2019
 
 * Google Play Store \- [https://play.google.com/store/apps/details?id=com.moneysupermarket.moremoney](https://play.google.com/store/apps/details?id=com.moneysupermarket.moremoney)
 
 ---
 
-## Degree 53, Manchester
+## Senior Mobile Developer - Degree 53, Manchester
 
 ### June 2013 – May 2017
 
 While working with Degree 53, I worked on a wide range of Android & iOS applications spanning from gambling applications, charities to pre school learning. Due to the different scales of projects, this has helped me learn how to work in various team sizes which involved sprints with the agile work pattern. I have submitted many new and updated apps to the app store for this company such as Betfred Lotto, Football Scores, Ready For School and Racing Results. I also integrated new technologies into a wide range of apps such as Touch ID, Apple Watch, Apple Pay, PingIt, Android Wear and Bluetooth Beacons. Due to my knowledge of both Android & iOS, I have been technical lead in larger projects and also been involved in the design stages suggesting what each platform should and should not do.
 
 ### Apps
-
-#### Ready For School
-
-* Apple App Store \- [https://itunes.apple.com/gb/app/ready-for-school-ages-3-4/id1059363344?mt=8](https://itunes.apple.com/gb/app/ready-for-school-ages-3-4/id1059363344?mt=8)
 
 #### Betfred Lotto
 
@@ -57,6 +78,7 @@ While working with Degree 53, I worked on a wide range of Android & iOS applicat
 
 #### Apps removed from App Store
 
+* Ready For School
 * Football Acca
 * Betfred Sportsbook
 * Betfred Virtual Sports
@@ -65,7 +87,7 @@ While working with Degree 53, I worked on a wide range of Android & iOS applicat
 
 ---
 
-## Great Fridays, Manchester
+## Mobile Developer - Great Fridays, Manchester
 
 ### February 2012 – March 2013
 
