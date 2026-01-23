@@ -5,16 +5,40 @@ permalink: /hobbies/home
 ---
 Outside coding apps, in my spare time I am involved in quite a few projects:
 
+* [3D Printing](#3d-printing)
 * [Home Assistant](#home-assistant)
 * [Immich Kiosk Mode](#immich-kiosk)
 * [Local Tuya](#local-tuya)
-* [3D Printing](#3d-printing)
 
 ## Did any of my work help you out?
 
 ![Ko-Fi QR](/images/kofi_qrcode.png)
 
 [https://ko-fi.com/chrisburrow1739](https://ko-fi.com/chrisburrow1739)
+
+---
+
+## <a name="3d-printing"/> CAD / 3D Printing - Chris3DPrintsStuff
+
+![Example 3D Print](/images/hobbies/outdoor-camera-cover.webp)
+
+I have been doing CAD with Prodesktop & Fusion 360 for 16 years. First got my interest for it in High School and then once 3D Printing appeared on the scene at a cheaper price, I jumped at the oppertunity and ten started playing with CAM. Originally I printed models for friends, family for random gifts and interesting ideas. Over COVID I donated face masks & ear helpers to local businesses and even the local hospital (120+ shields & 100+ ear helpers).
+
+<p float="left">
+    <img src="/images/hobbies/covid-earhelpers.jpg" width="45%" />    
+    <img src="/images/hobbies/covid-shields.jpg" width="45%" />
+</p>
+
+From 2023, I started publishing my designs for free on [Printables](https://www.printables.com/@Chris173972_549133/models) for other peopel to give feedback and use. Then from 2025, I created my own listing pages with the name "Chris3DPrintsStuff" selling some of those designs/models to the public: iOT Covers, Car Repair, Home DIY, Gaming Accessories, etc. I have now sold over 150 orders with over 30 5 star reviews selling a range of designs.
+
+[Link to https://Chris3DPrintsStuff.website](https://chris3dprintsstuff.website)
+
+<p float="left">
+    <img src="/images/hobbies/printables.jpg" width="22%" />    
+    <img src="/images/hobbies/ebay-stats.jpg" width="22%" />
+    <img src="/images/hobbies/cults-stats.jpg" width="22%" />
+    <img src="/images/hobbies/etsy-stats.jpg" width="22%" />
+</p>
 
 ---
 
@@ -71,24 +95,5 @@ I have started to contribute towards a Open Source project where I contribute co
 * [https://github.com/chris-burrow-apps/my-tuya-devices-conversion](https://github.com/chris-burrow-apps/my-tuya-devices-conversion)
 * [https://github.com/tuya-cloudcutter/tuya-cloudcutter/issues/729#issuecomment-2457745381](https://github.com/tuya-cloudcutter/tuya-cloudcutter/issues/729#issuecomment-2457745381)
 * [https://www.elektroda.com/rtvforum/topic4085100.html](https://www.elektroda.com/rtvforum/topic4085100.html)
-
----
-
-## <a name="3d-printing"/> CAD / 3D Printing
-
-![Example 3D Print](/images/hobbies/3d_printing.webp)
-
-Mixed for my own enjoyment, helping out friends and family. I have been doing CAD since I was 16. Making designs for scratch, adapting existing designs and then 3D Print the prototype.
-Over COVID I also donated face masks & ear helpers to local businesses and even the local hospital.
-
-[Link to my Printables Profile](https://www.printables.com/@Chris173972_549133/models)
-
-![Printables Profile](/images/hobbies/printables.jpg)
-
-![Example 3D Print](/images/hobbies/3d-printing-example.jpg)
-
-![Example 3D Print](/images/hobbies/3d-printing-example-2.jpg)
-
-![Example 3D Print](/images/hobbies/3d-printing-example-3.jpg)
 
 ---
