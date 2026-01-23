@@ -10,11 +10,12 @@ I'm a hard-working and organized individual with 11 years of experience in Andro
 
 Learn more about my:
 
+* [Interests](/interests/home)
 * [Skills](/cv/skills)
 * [Previous Experience](/cv/previous-experience)
 * [My App Store](/apps)
 * [Education](/cv/education)
-* [Hobbies](/hobbies/home)
+
 
 ### Contact Details: [chris@burrow.website](mailto:chris@burrow.website)
 

@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Chris Burrow Apps
-email: chris.burrow.apps@gmail.com
+email: chris@burrow.website
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio website of all the apps I have worked on and my hobbies. 
   Android developer based in Manchester, UK. 
+  Website of all the apps I have worked on and my interests. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chris.burrow.apps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chris.burrow.website" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chris-burrow-apps
 
 # Build settings

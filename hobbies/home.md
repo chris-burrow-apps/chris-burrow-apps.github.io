@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hobbies
-permalink: /hobbies/home
+title: Interests
+permalink: /interests/home
 ---
 Outside coding apps, in my spare time I am involved in quite a few projects:
 
@@ -20,14 +20,14 @@ Outside coding apps, in my spare time I am involved in quite a few projects:
 
 ## <a name="3d-printing"/> CAD / 3D Printing - Chris3DPrintsStuff
 
-![Example 3D Print](/images/hobbies/outdoor-camera-cover.webp)
+![Example 3D Print](/images/interests/outdoor-camera-cover.webp)
 
 I have been doing CAD for 16 years. 
 First got my interest for it in High School and then once 3D Printing appeared on the scene at a cheaper price, I jumped at the oppertunity and then started playing with CAM. Originally I printed models for friends, family for random gifts and interesting ideas. Over COVID I donated face masks & ear helpers to local businesses and even the local hospital (120+ shields & 100+ ear helpers).
 
 <p float="left">
-    <img src="/images/hobbies/covid-earhelpers.jpg" width="48%" />    
-    <img src="/images/hobbies/covid-shields.jpg" width="48%" />
+    <img src="/images/interests/covid-earhelpers.jpg" width="48%" />    
+    <img src="/images/interests/covid-shields.jpg" width="48%" />
 </p>
 
 <p>From 2023, I started publishing my designs for free on Printables for other people to give feedback and use.</p>
@@ -37,18 +37,18 @@ First got my interest for it in High School and then once 3D Printing appeared o
 [https://chris3dprintsstuff.website](https://chris3dprintsstuff.website)
 
 <p float="left">
-    <img src="/images/hobbies/ebay-stats.jpg" width="48%" />
-    <img src="/images/hobbies/etsy-stats.jpg" width="48%" />
-    <img src="/images/hobbies/thangs-stats.jpg" width="48%" />
-    <img src="/images/hobbies/printables.jpg" width="48%" />
-    <img src="/images/hobbies/cults-stats.jpg" width="98%" />    
+    <img src="/images/interests/ebay-stats.jpg" width="48%" />
+    <img src="/images/interests/etsy-stats.jpg" width="48%" />
+    <img src="/images/interests/thangs-stats.jpg" width="48%" />
+    <img src="/images/interests/printables.jpg" width="48%" />
+    <img src="/images/interests/cults-stats.jpg" width="98%" />    
 </p>
 
 ---
 
 ## <a name="home-assistant"/> Home Assistant
 
-![Home Assistant Example](/images/hobbies/home_assistant.png)
+![Home Assistant Example](/images/interests/home_assistant.png)
 
 Quirk of being a developer, I love making things automated. This includes my house! I have setup automations for:
 
@@ -72,11 +72,11 @@ I have now started creating some blueprints that can be added to Home Assistant 
 While converting my Google Hubs to no longer use Google Photos. I discovered an app called [Immich](https://immich.app/).
 This is a community driven application that basically looks and acts like Google Photos but being able to host locally.
 
-![Immich Homepage](/images/hobbies/immich-homepage.jpg)
+![Immich Homepage](/images/interests/immich-homepage.jpg)
 
 The learning curve I had to work out was how to display those images within a nice pretty wrapper. Which is how I then started testing Beta builds for [immich-kiosk](https://github.com/damongolding/immich-kiosk)
 
-![Immich Kiosk Example](/images/hobbies/immich-kiosk-fullscreen.jpg)
+![Immich Kiosk Example](/images/interests/immich-kiosk-fullscreen.jpg)
 
 Immich-Kiosk is so nice to use; can be behind a password, add fade to your photos, time/date, so different images on different frames and so on. To help contribute, I have been going through requests and when people ask to check a build, I have been doing so and contributing my own ideas on how to improve it.
 
@@ -91,7 +91,7 @@ See my steps in this repo:
 
 ## <a name="local-tuya"/> Converting Cloud devices to local
 
-![Tuya Cloudcutter Device](/images/hobbies/tuya_cloudcutter.jpg)
+![Tuya Cloudcutter Device](/images/interests/tuya_cloudcutter.jpg)
 
 One of my bug bares with IOT devices is that most are tied to the cloud.
 I have started to contribute towards a Open Source project where I contribute configurations of devices that was once tied with Tuya and now can be controlled locally.
