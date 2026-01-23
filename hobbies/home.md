@@ -31,7 +31,7 @@ I have been doing CAD with Prodesktop & Fusion 360 for 16 years. First got my in
 
 From 2023, I started publishing my designs for free on [Printables](https://www.printables.com/@Chris173972_549133/models) for other peopel to give feedback and use. Then from 2025, I created my own listing pages with the name "Chris3DPrintsStuff" selling some of those designs/models to the public: iOT Covers, Car Repair, Home DIY, Gaming Accessories, etc. I have now sold over 150 orders with over 30 5 star reviews selling a range of designs.
 
-[Link to https://Chris3DPrintsStuff.website](https://chris3dprintsstuff.website)
+[https://chris3dprintsstuff.website](https://chris3dprintsstuff.website)
 
 <p float="left">
     <img src="/images/hobbies/printables.jpg" width="48%" />    
