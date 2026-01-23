@@ -37,11 +37,11 @@ First got my interest for it in High School and then once 3D Printing appeared o
 [https://chris3dprintsstuff.website](https://chris3dprintsstuff.website)
 
 <p float="left">
-    <img src="/images/hobbies/ebay-stats.jpg" width="45%" />
-    <img src="/images/hobbies/etsy-stats.jpg" width="45%" />
-    <img src="/images/hobbies/thangs-stats.jpg" width="45%" />
-    <img src="/images/hobbies/printables.jpg" width="45%" />
-    <img src="/images/hobbies/cults-stats.jpg" width="90%" />    
+    <img src="/images/hobbies/ebay-stats.jpg" width="48%" />
+    <img src="/images/hobbies/etsy-stats.jpg" width="48%" />
+    <img src="/images/hobbies/thangs-stats.jpg" width="48%" />
+    <img src="/images/hobbies/printables.jpg" width="48%" />
+    <img src="/images/hobbies/cults-stats.jpg" width="96%" />    
 </p>
 
 ---
