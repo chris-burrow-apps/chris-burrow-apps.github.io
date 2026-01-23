@@ -22,14 +22,17 @@ Outside coding apps, in my spare time I am involved in quite a few projects:
 
 ![Example 3D Print](/images/hobbies/outdoor-camera-cover.webp)
 
-I have been doing CAD with Prodesktop & Fusion 360 for 16 years. First got my interest for it in High School and then once 3D Printing appeared on the scene at a cheaper price, I jumped at the oppertunity and ten started playing with CAM. Originally I printed models for friends, family for random gifts and interesting ideas. Over COVID I donated face masks & ear helpers to local businesses and even the local hospital (120+ shields & 100+ ear helpers).
+I have been doing CAD for 16 years. 
+First got my interest for it in High School and then once 3D Printing appeared on the scene at a cheaper price, I jumped at the oppertunity and then started playing with CAM. Originally I printed models for friends, family for random gifts and interesting ideas. Over COVID I donated face masks & ear helpers to local businesses and even the local hospital (120+ shields & 100+ ear helpers).
 
 <p float="left">
     <img src="/images/hobbies/covid-earhelpers.jpg" width="45%" />    
     <img src="/images/hobbies/covid-shields.jpg" width="45%" />
 </p>
 
-From 2023, I started publishing my designs for free on [Printables](https://www.printables.com/@Chris173972_549133/models) for other peopel to give feedback and use. Then from 2025, I created my own listing pages with the name "Chris3DPrintsStuff" selling some of those designs/models to the public: iOT Covers, Car Repair, Home DIY, Gaming Accessories, etc. I have now sold over 150 orders with over 30 5 star reviews selling a range of designs.
+<p>From 2023, I started publishing my designs for free on Printables for other people to give feedback and use.</p>
+
+<p>Then from 2025, I created my own listing pages with the name "Chris3DPrintsStuff" selling some of those designs/models to the public: iOT Covers, Car Repair, Home DIY, Gaming Accessories, etc. I have now sold over 150 orders with over 30 5 star reviews selling a range of designs.</p>
 
 [https://chris3dprintsstuff.website](https://chris3dprintsstuff.website)
 
