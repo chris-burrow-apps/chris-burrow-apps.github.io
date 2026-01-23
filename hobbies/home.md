@@ -34,10 +34,13 @@ From 2023, I started publishing my designs for free on [Printables](https://www.
 [Link to https://Chris3DPrintsStuff.website](https://chris3dprintsstuff.website)
 
 <p float="left">
-    <img src="/images/hobbies/printables.jpg" width="22%" />    
-    <img src="/images/hobbies/ebay-stats.jpg" width="22%" />
-    <img src="/images/hobbies/cults-stats.jpg" width="22%" />
-    <img src="/images/hobbies/etsy-stats.jpg" width="22%" />
+    <img src="/images/hobbies/printables.jpg" width="48%" />    
+    <img src="/images/hobbies/ebay-stats.jpg" width="48%" />
+</p>
+
+<p float="left">
+    <img src="/images/hobbies/cults-stats.jpg" width="48%" />
+    <img src="/images/hobbies/etsy-stats.jpg" width="48%" />
 </p>
 
 ---
