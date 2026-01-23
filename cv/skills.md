@@ -8,7 +8,6 @@ permalink: /cv/skills
 
 * Kotlin – Android (Phone & Tablet)  
 * Java – Android (Phone & Tablet)  
-* Kotlin \- Server side
 
 
 ## Android frameworks
@@ -31,12 +30,13 @@ permalink: /cv/skills
 * Bitrise.io  
 * Jenkins  
 * Teamcity
+* CodeMagic
 
 
-## Development Environments:
+## AI Programming Tools Used
 
-* Android Studio  
-* Eclipse  
+* Gemini - Android Studio Plugin
+* ChatGPT - Code Snippets
 
 
 ## Testing Environment Frameworks:
@@ -62,6 +62,19 @@ permalink: /cv/skills
 * YAML
 
 
+## Development Environments:
+
+* Android Studio  
+* Eclipse  
+
+
 ## User Documentation
 
 * Javadoc 
+* KDoc
+
+
+## Delivery Styles Used
+* SCRUM
+* Kanban
+* Hybrid
