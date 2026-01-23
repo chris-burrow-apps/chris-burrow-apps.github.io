@@ -32,7 +32,7 @@ First got my interest for it in High School and then once 3D Printing appeared o
 
 <p>From 2023, I started publishing my designs for free on Printables for other people to give feedback and use.</p>
 
-<p>Then from 2025, I created my own listing pages with the name "Chris3DPrintsStuff" selling some of those designs/models to the public: iOT Covers, Car Repair, Home DIY, Gaming Accessories, etc. I have now sold over 150 orders with over 30 5 star reviews selling a range of designs.</p>
+<p>From 2025, I created my own listing pages with the name "Chris3DPrintsStuff" selling some of those designs/models to the public: iOT Covers, Car Repair, Home DIY, Gaming Accessories, etc. I have now sold over 150 orders with over 30 5 star reviews selling a range of designs.</p>
 
 [https://chris3dprintsstuff.website](https://chris3dprintsstuff.website)
 
