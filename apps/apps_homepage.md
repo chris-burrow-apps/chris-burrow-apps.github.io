@@ -34,8 +34,7 @@ To aid development, I have built this along side Gemini to speed up building scr
 
 
 ### Publishing to Google Play
-* In progress to get Beta testers for this app.
-* Get in contact if you'd like to help: [beta@chris3dprintsstuff.website](mailto:beta@chris3dprintsstuff.website)
+* This has now been granted Google Play Production Status. Will be released soon to the public. 
 
 ---
 
@@ -64,3 +63,6 @@ This was built using Jetpack compose and MVVM pattern.
 ![Bitrise PR Pipeline](/images/apps/bitrise_pr.png)
 
 ![Bitrise Release Pipeline](/images/apps/bitrise_release.png)
+
+### Publishing to Google Play
+* This is in the process of getting Google Play Production status.
