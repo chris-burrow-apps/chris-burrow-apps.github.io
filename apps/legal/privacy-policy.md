@@ -6,7 +6,7 @@ permalink: /apps/legal/privacy-policy
 
 # Privacy Policy
 
-**Last Updated: February 27, 2025**
+**Last Updated: April 30, 2026**
 
 This Privacy Policy describes how we ("the Developer") collect, use, and share your information when you use our mobile applications (each, an "Application").
 
