@@ -11,6 +11,7 @@ In my own time I have been developing my own apps to publish on Google Play
 
 Now on Google Play: [https://play.google.com/store/apps/details?id=com.chrisburrow.helpdecide](https://play.google.com/store/apps/details?id=com.chrisburrow.helpdecide)
 
+
 Mobile Screenshots:
 
 <p float="left">
@@ -39,10 +40,12 @@ This was built using Jetpack compose and MVVM pattern.
 
 ![Bitrise Release Pipeline](/images/apps/bitrise_release.png)
 
-### Git Hub link to basic version
+### Git Hub Link To Basic Version
 * [https://github.com/chris-burrow-apps/help-decide-android-app](https://github.com/chris-burrow-apps/help-decide-android-app)
 
+
 ---
+
 
 ## 3D Print Organiser
 3D Print Management App (Android) – Inventory, quoting, and order management system for 3D printing companies. 
