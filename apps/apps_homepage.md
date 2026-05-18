@@ -9,7 +9,7 @@ In my own time I have been developing my own apps to publish on Google Play
 
 ![Help Decide App Banner](/images/apps/help_decide_banner.png)
 
-Now on Google Play: [https://github.com/chris-burrow-apps/help-decide-android-app](https://github.com/chris-burrow-apps/help-decide-android-app)
+Now on Google Play: [https://play.google.com/store/apps/details?id=com.chrisburrow.helpdecide](https://play.google.com/store/apps/details?id=com.chrisburrow.helpdecide)
 
 Mobile Screenshots:
 
