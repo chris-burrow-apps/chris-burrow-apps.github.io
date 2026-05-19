@@ -31,14 +31,20 @@ Tablet Screenshots:
 This was built using Jetpack compose and MVVM pattern.
 
 ### Google Play Store
-![Google Play Store - In Review Screenshot](/images/apps/google_play_in_review.png)
+
+<p float="center">
+    <img alt="Google Play Store - In Review Screenshot" src="/images/apps/google_play_in_review.png" width="45%" />    
+</p>
+
 
 ### Bitrise workflow
-![Bitrise Pipelines Logs](/images/apps/bitrise_workflow.png)
 
-![Bitrise PR Pipeline](/images/apps/bitrise_pr.png)
+<p float="center">
+    <img alt="Bitrise Pipelines Logs" src="/images/apps/bitrise_workflow.png" width="45%" />    
+    <img alt="Bitrise PR Pipeline" src="/images/apps/bitrise_pr.png" width="45%" />
+    <img alt="Bitrise Release Pipeline" src="/images/apps/bitrise_release.png" width="45%" />
+</p>
 
-![Bitrise Release Pipeline](/images/apps/bitrise_release.png)
 
 ### Git Hub Link To Basic Version
 * [https://github.com/chris-burrow-apps/help-decide-android-app](https://github.com/chris-burrow-apps/help-decide-android-app)
@@ -70,7 +76,10 @@ To aid development, I have built this along side Gemini to speed up building scr
 
 
 ### Code Magic CI/CD
-![CodeMagic Pipelines Logs](/images/apps/chris3dprintshelper_codemagic.jpg)
+<p float="center">
+    <img alt="CodeMagic Pipelines Logs" src="/images/apps/chris3dprintshelper_codemagic.jpg" width="45%" />    
+</p>
+
 
 ### Publishing to Google Play
 * This has now been granted Google Play Production Status. Will be released soon to the public. 
